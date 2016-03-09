@@ -1,0 +1,53 @@
+img {
+	width: 100px;
+	height: 100px;
+	padding: 0;
+}
+
+#blue {
+	border: 2px solid black;
+	background-color: blue;
+	width: 100px;
+	height: 100px;
+}
+
+#red {
+	border: 2px solid black;
+	background-color: red;
+	width: 100px;
+	height: 100px;
+}
+
+#green {
+	border: 2px solid black;
+	background-color: green;
+	width: 100px;
+	height: 100px;
+}
+
+#black {
+	border: 2px solid black;
+	background-color: black;
+	width: 100px;
+	height: 100px;
+}
+
+#button {
+	border-radius: 50px;
+	border: 2px solid red;
+	background-color: #FF9900;
+	height: 40px;
+	width: 200px;
+	margin-top: -30px;
+	margin-left: 1000px;
+	text-align: center;
+	padding-top: 5px;
+	font-family: serif, georgia;
+	font-size: 30px;
+	color: white;
+}
+
+#container {
+	width: 600px;
+	height: 550px;
+}
